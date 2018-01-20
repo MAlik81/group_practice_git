@@ -1,5 +1,10 @@
 1. apples
 2. mangos
 
+<<<<<<< HEAD
 4. milk
 5. dark coffee
+=======
+4. coconut milk
+5. coffeee
+>>>>>>> 480a1acfd84c857662b17fd3d0ff480b1b914db1
